@@ -1,0 +1,71 @@
+[2022-09-20 20:56:30.593] [sharedprocess] [info] Starting worker process with pid 174 (type: fileWatcher, window: 1).
+[2022-09-20 20:59:40.313] [sharedprocess] [info] Worker process with pid 174 terminated normally (type: fileWatcher, window: 1).
+[2022-09-20 20:59:41.610] [sharedprocess] [info] Starting worker process with pid 209 (type: fileWatcher, window: 1).
+[2022-09-20 21:39:32.691] [sharedprocess] [info] Getting Manifest... dracula-theme.theme-dracula
+[2022-09-20 21:39:32.699] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2022-09-20 21:39:33.676] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /home/operador/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/dracula-theme.theme-dracula-2.24.2
+[2022-09-20 21:39:33.719] [sharedprocess] [info] Extracted extension to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/.d7748ec4-087f-4372-a731-b6a9b16ca766: dracula-theme.theme-dracula
+[2022-09-20 21:39:33.723] [sharedprocess] [info] Renamed to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/dracula-theme.theme-dracula-2.24.2
+[2022-09-20 21:39:33.725] [sharedprocess] [info] Extracting completed. dracula-theme.theme-dracula
+[2022-09-20 21:39:33.727] [sharedprocess] [info] Extension installed successfully: dracula-theme.theme-dracula
+[2022-09-20 21:42:43.889] [sharedprocess] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-09-20 21:42:43.897] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2022-09-20 21:43:13.163] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/operador/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.27
+[2022-09-20 21:43:15.140] [sharedprocess] [info] Extracted extension to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/.ac770349-205c-49f5-8856-6a34fb8af9a1: visualstudioexptteam.vscodeintellicode
+[2022-09-20 21:43:15.150] [sharedprocess] [info] Renamed to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.27
+[2022-09-20 21:43:15.154] [sharedprocess] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2022-09-20 21:43:15.156] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2022-09-20 21:43:24.046] [sharedprocess] [info] Getting Manifest... hookyqr.beautify
+[2022-09-20 21:43:24.067] [sharedprocess] [info] Installing extension: hookyqr.beautify
+[2022-09-20 21:43:25.228] [sharedprocess] [info] Downloaded extension: hookyqr.beautify /home/operador/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/hookyqr.beautify-1.5.0
+[2022-09-20 21:43:25.446] [sharedprocess] [info] Extracted extension to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/.72829d00-89fd-49fc-99c0-bab6d36eab7a: hookyqr.beautify
+[2022-09-20 21:43:25.453] [sharedprocess] [info] Renamed to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/hookyqr.beautify-1.5.0
+[2022-09-20 21:43:25.455] [sharedprocess] [info] Extracting completed. hookyqr.beautify
+[2022-09-20 21:43:25.457] [sharedprocess] [info] Extension installed successfully: hookyqr.beautify
+[2022-09-20 21:43:35.475] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-09-20 21:43:35.484] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-09-20 21:43:36.925] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/operador/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.20.0
+[2022-09-20 21:43:37.587] [sharedprocess] [info] Extracted extension to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/.aed4274d-14ca-42ab-86bf-f5082d8e4543: pkief.material-icon-theme
+[2022-09-20 21:43:37.592] [sharedprocess] [info] Renamed to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/pkief.material-icon-theme-4.20.0
+[2022-09-20 21:43:37.595] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-09-20 21:43:37.596] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-09-20 21:43:46.569] [sharedprocess] [info] Getting Manifest... alefragnani.bookmarks
+[2022-09-20 21:43:46.580] [sharedprocess] [info] Installing extension: alefragnani.bookmarks
+[2022-09-20 21:43:49.107] [sharedprocess] [info] Downloaded extension: alefragnani.bookmarks /home/operador/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/alefragnani.bookmarks-13.3.1
+[2022-09-20 21:43:49.263] [sharedprocess] [info] Extracted extension to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/.78969017-b606-4f80-b8e3-cffa07ce000a: alefragnani.bookmarks
+[2022-09-20 21:43:49.268] [sharedprocess] [info] Renamed to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/alefragnani.bookmarks-13.3.1
+[2022-09-20 21:43:49.271] [sharedprocess] [info] Extracting completed. alefragnani.bookmarks
+[2022-09-20 21:43:49.272] [sharedprocess] [info] Extension installed successfully: alefragnani.bookmarks
+[2022-09-20 21:44:02.107] [sharedprocess] [info] Getting Manifest... naumovs.color-highlight
+[2022-09-20 21:44:02.113] [sharedprocess] [info] Installing extension: naumovs.color-highlight
+[2022-09-20 21:44:04.066] [sharedprocess] [info] Downloaded extension: naumovs.color-highlight /home/operador/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/naumovs.color-highlight-2.5.0
+[2022-09-20 21:44:04.291] [sharedprocess] [info] Extracted extension to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/.0f164ad3-a786-4fee-8508-d7f09803ec0a: naumovs.color-highlight
+[2022-09-20 21:44:04.298] [sharedprocess] [info] Renamed to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/naumovs.color-highlight-2.5.0
+[2022-09-20 21:44:04.304] [sharedprocess] [info] Extracting completed. naumovs.color-highlight
+[2022-09-20 21:44:04.306] [sharedprocess] [info] Extension installed successfully: naumovs.color-highlight
+[2022-09-20 21:44:14.918] [sharedprocess] [info] Getting Manifest... mohd-akram.vscode-html-format
+[2022-09-20 21:44:14.924] [sharedprocess] [info] Installing extension: mohd-akram.vscode-html-format
+[2022-09-20 21:44:17.990] [sharedprocess] [info] Downloaded extension: mohd-akram.vscode-html-format /home/operador/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/mohd-akram.vscode-html-format-0.0.5
+[2022-09-20 21:44:18.016] [sharedprocess] [info] Extracted extension to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/.bb204f5e-644f-47be-a8e4-0bea3ffcc67f: mohd-akram.vscode-html-format
+[2022-09-20 21:44:18.021] [sharedprocess] [info] Renamed to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/mohd-akram.vscode-html-format-0.0.5
+[2022-09-20 21:44:18.024] [sharedprocess] [info] Extracting completed. mohd-akram.vscode-html-format
+[2022-09-20 21:44:18.025] [sharedprocess] [info] Extension installed successfully: mohd-akram.vscode-html-format
+[2022-09-20 21:44:25.312] [sharedprocess] [info] Getting Manifest... geyao.html-snippets
+[2022-09-20 21:44:25.320] [sharedprocess] [info] Installing extension: geyao.html-snippets
+[2022-09-20 21:44:27.776] [sharedprocess] [info] Downloaded extension: geyao.html-snippets /home/operador/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/geyao.html-snippets-0.2.3
+[2022-09-20 21:44:27.797] [sharedprocess] [info] Extracted extension to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/.e90249b8-23a6-4b1f-a7dd-738336545f2b: geyao.html-snippets
+[2022-09-20 21:44:27.803] [sharedprocess] [info] Renamed to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/geyao.html-snippets-0.2.3
+[2022-09-20 21:44:27.805] [sharedprocess] [info] Extracting completed. geyao.html-snippets
+[2022-09-20 21:44:27.807] [sharedprocess] [info] Extension installed successfully: geyao.html-snippets
+[2022-09-20 21:44:34.852] [sharedprocess] [info] Uninstalling extension: geyao.html-snippets@0.2.3
+[2022-09-20 21:44:35.023] [sharedprocess] [info] Detected extension removed from another source geyao.html-snippets
+[2022-09-20 21:44:35.238] [sharedprocess] [info] Successfully uninstalled extension: geyao.html-snippets@0.2.3
+[2022-09-20 21:44:39.703] [sharedprocess] [info] Getting Manifest... abusaidm.html-snippets
+[2022-09-20 21:44:39.722] [sharedprocess] [info] Installing extension: abusaidm.html-snippets
+[2022-09-20 21:44:41.224] [sharedprocess] [info] Downloaded extension: abusaidm.html-snippets /home/operador/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/abusaidm.html-snippets-0.2.1
+[2022-09-20 21:44:41.244] [sharedprocess] [info] Extracted extension to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/.b7427816-27c9-4afb-94ed-3a828445fffa: abusaidm.html-snippets
+[2022-09-20 21:44:41.248] [sharedprocess] [info] Renamed to /home/operador/.var/app/com.visualstudio.code/data/vscode/extensions/abusaidm.html-snippets-0.2.1
+[2022-09-20 21:44:41.251] [sharedprocess] [info] Extracting completed. abusaidm.html-snippets
+[2022-09-20 21:44:41.252] [sharedprocess] [info] Extension installed successfully: abusaidm.html-snippets
+[2022-09-20 21:45:24.362] [sharedprocess] [info] Uninstalling extension: abusaidm.html-snippets@0.2.1
+[2022-09-20 21:45:24.740] [sharedprocess] [info] Successfully uninstalled extension: abusaidm.html-snippets@0.2.1

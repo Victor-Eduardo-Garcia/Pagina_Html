@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="com.visualstudio.code.desktop" score="401" last-seen="1663723414"/>
+    <application id="org.gnome.Nautilus.desktop" score="26" last-seen="1663721927"/>
+    <application id="io.elementary.appcenter.desktop" score="12" last-seen="1663715692"/>
+    <application id="firefox.desktop" score="1" last-seen="1663720015"/>
+    <application id="org.gnome.Terminal.desktop" score="322" last-seen="1663720298"/>
+    <application id="gnome-initial-setup.desktop" score="1" last-seen="1663692955"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="2" last-seen="1663718380"/>
+    <application id="com.google.Chrome.desktop" score="325" last-seen="1663723415"/>
+  </context>
+</application-state>

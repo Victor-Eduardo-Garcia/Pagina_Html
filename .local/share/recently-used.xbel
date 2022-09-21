@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/operador/WorkSpace" added="2022-09-20T23:15:02.020779Z" modified="2022-09-20T23:15:02.020782Z" visited="2022-09-20T23:15:02.020780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-20T23:15:02.020780Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/operador/WorkSpace/Projeto_01" added="2022-09-20T23:59:40.176364Z" modified="2022-09-20T23:59:40.196274Z" visited="2022-09-20T23:59:40.176365Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2022-09-20T23:59:40.176369Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-09-20T23:59:40.196271Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/operador/WorkSpace/Projeto_01/index.html" added="2022-09-21T00:22:36.601624Z" modified="2022-09-21T00:31:15.250780Z" visited="2022-09-21T00:22:36.601625Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=/app/bin/chrome --file-forwarding com.google.Chrome @@u %U @@&apos;" modified="2022-09-21T00:31:15.250774Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

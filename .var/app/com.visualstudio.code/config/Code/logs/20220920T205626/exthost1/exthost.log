@@ -1,0 +1,36 @@
+[2022-09-20 20:56:30.415] [exthost] [info] Extension host with pid 122 started
+[2022-09-20 20:56:30.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-09-20 20:56:30.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-20 20:56:30.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-09-20 20:56:30.836] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-20 20:56:30.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-20 20:56:30.969] [exthost] [info] Eager extensions activated
+[2022-09-20 20:56:30.972] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-20 20:56:30.992] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-20 20:56:31.028] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-09-20 20:56:37.118] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-20 20:56:37.130] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-20 20:56:37.230] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-20 20:59:40.288] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-20 20:59:40.303] [exthost] [info] Extension host with pid 122 exiting with code 0
+[2022-09-20 20:59:42.576] [exthost] [info] Extension host with pid 211 started
+[2022-09-20 20:59:42.576] [exthost] [info] Skipping acquiring lock for /home/operador/.var/app/com.visualstudio.code/config/Code/User/workspaceStorage/8e09d0f791400c22ff9a774518860380.
+[2022-09-20 20:59:42.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-09-20 20:59:42.757] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-20 20:59:42.759] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-09-20 20:59:42.761] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-20 20:59:42.791] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-20 20:59:42.801] [exthost] [info] Eager extensions activated
+[2022-09-20 20:59:42.809] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-20 20:59:42.816] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-20 20:59:42.854] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-09-20 20:59:51.371] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-09-20 21:01:38.890] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-09-20 21:39:39.029] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-20 21:39:39.035] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-20 21:39:39.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-20 21:43:25.662] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: false, activationEvent: '*'
+[2022-09-20 21:43:37.772] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-20 21:43:49.467] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-20 21:44:04.445] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: '*'
+[2022-09-20 21:44:18.116] [exthost] [info] ExtensionService#_doActivateExtension mohd-akram.vscode-html-format, startup: false, activationEvent: 'onLanguage:html'

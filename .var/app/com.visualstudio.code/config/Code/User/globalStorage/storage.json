@@ -38,8 +38,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -115,6 +114,21 @@
                     {
                         "id": "saveAll",
                         "label": "Save A&&ll"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "submenuitem.MenubarShare",
+                        "label": "Share",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1530,8 +1544,8 @@
             "backupPath": "/home/operador/.var/app/com.visualstudio.code/config/Code/Backups/82146397677711d74a23e32dd592fa1c",
             "uiState": {
                 "mode": 1,
-                "x": 880,
-                "y": 152,
+                "x": 911,
+                "y": 162,
                 "width": 1024,
                 "height": 768
             }
